@@ -1,0 +1,36 @@
+.mainContainerCat{
+    width:auto;
+   margin-left: 0% !important;
+   margin-right: 0% !important;
+   background-color: #eef0f2 !important;
+   
+   }
+   .thirdRow{
+   margin-left:25%;
+   }
+   .imgBadge{
+       position: relative;
+   }
+   .Badge{
+       position: absolute;
+       top: 5%;
+   
+   }
+   .instanceCard{
+       border-style: solid ;
+       border-color: #eef0f2 !important;
+       border-radius:33px;
+   }
+   .textcolor{
+       color: #666666;
+       font-size: 80% !important;
+       font-weight: bold !important;
+       White-space: nowrap;
+   }
+   .firstRowText{
+    font-size:x-large;
+    font-weight: bolder;
+    color: #666666ab;
+
+   }
+   

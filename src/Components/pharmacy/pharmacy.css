@@ -1,0 +1,39 @@
+
+.containerSize{
+    width:auto;
+margin-left: 0% !important;
+margin-right: 0% !important;
+background-color: #eef0f2 !important;
+
+}
+.cardMain{
+    width:100%;
+
+}
+/* ///////////////////// */
+.firstPharmacyRow{
+    margin: 0%;
+    font-size:1.7rem;
+    font-weight: bolder;
+    padding-top:5%;
+    padding-bottom:2%;
+
+}
+/* //////////////////// */
+.secondPharmacyRow{
+    background:url(/public/Images/epharmacy-solution-banner.jpg) no-repeat;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    border-style: solid;
+    border-color: #367bc8;
+    border-radius:15px;
+    background-color: #eef0f2 !important;
+    color: rgb(255, 255, 255);
+
+}
+/* ///////////////////////// */
+.cardCol2{
+    font-weight: bolder;
+}
